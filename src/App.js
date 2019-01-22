@@ -44,6 +44,7 @@ class App extends Component {
 
         {/* Se inserto la navegacion */}
         <Navegacion/>
+        <span className="badge badge-pill badge-ligth ml-2">Tareas {this.state.todos.length}</span>
         <hr/>
 
         <img src={logo} className="App-logo" alt="logo" />
