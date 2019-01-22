@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "titulo": "Tarea 1",
+      "responsable": "Jaime",
+      "descripcion": "lorem impsum",
+      "prioridad": "Baja"
+    },
+
+    {
+      "titulo": "Tarea 2",
+      "responsable": "Jaime",
+      "descripcion": "lorem impsum",
+      "prioridad": "media"
+    },
+
+    {
+      "titulo": "Tarea 3",
+      "responsable": "Jaime",
+      "descripcion": "lorem impsum",
+      "prioridad": "Alta"
+    }
+  ]
+}
